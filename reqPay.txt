@@ -14,4 +14,4 @@ Redis==5.0.4
 openjdk11‑jdk==11
 Vue.js==2.6.14
 chart.js==3.7.1
-sheetJS/xlsx==1.20211122.1
+xlsx.js==1.20211122.1
