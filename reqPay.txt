@@ -1,7 +1,7 @@
 PostgreSQL-database==11.12
 psycopg2==2.9.3
 python==3.9
-django==3.2.13
+django==4.2.15
 djangorestframework==3.13.1
 django-rest-auth==0.9.5
 django-tenants==3.4.2
