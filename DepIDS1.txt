@@ -1,0 +1,12 @@
+nginx==1.19.10
+docker==19.03.0
+kubernetes==1.18.2
+spring==2.7.18
+indluxdb==2.2.0
+tdengine==2.6.0.12
+redis==6.2.1
+minio==RELEASE.2022-05-08T23-50-31Z.hotfix.6995b5340
+mysql==8.0.23
+nsq==nsqd v1.2.1 (built w/go1.16.7)
+glusterfs==9.4
+vue==2
